@@ -42,7 +42,7 @@ else
    local label = Instance.new("TextLabel", frame)
    label.Size = UDim2.new(1, -20, 0.6, 0)
    label.Position = UDim2.new(0, 10, 0, 10)
-   label.Text = "this game is not supported. Join the Discord for the supported games list, Эта игра не поддерживается. Присоединяйтесь к Discord для списка поддерживаемых игр."
+   label.Text = "this game is not supported. Join the Discord for the supported games list."
    label.TextWrapped = true
    label.Font = Enum.Font.SourceSansBold
    label.TextColor3 = Color3.fromRGB(255, 255, 255)
